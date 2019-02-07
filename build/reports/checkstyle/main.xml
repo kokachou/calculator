@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="6.19">
 <file name="/home/gujc/calculator/src/main/java/com/kokachou/calculator/Calculator.java">
-<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
 </file>
 <file name="/home/gujc/calculator/src/main/java/com/kokachou/calculator/CalculatorApplication.java">
-<error line="6" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
 </file>
 <file name="/home/gujc/calculator/src/main/java/com/kokachou/calculator/CalculatorController.java">
 </file>
